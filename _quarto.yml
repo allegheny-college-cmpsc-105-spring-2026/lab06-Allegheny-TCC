@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: EXPLORER
-  google-analytics: TODO
+  title: Teag Site
+  google-analytics: G-Q5QQ2ZECPS
   navbar:
     left:
       - href: index.qmd
