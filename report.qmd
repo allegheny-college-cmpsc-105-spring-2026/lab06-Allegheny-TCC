@@ -2,28 +2,35 @@
 title: Report
 ---
 
-TODO: Write your report in this `report.qmd` file using markdown syntax.
+Write your report in this `report.qmd` file using markdown syntax.
 
 ## What this was lab about
 
-TODO: Briefly summarize what this lab was about and what you did at a high level.
+Briefly summarize what this lab was about and what you did at a high level.
+This lab was about utilizing resources in order to collect and measure data. We used Google Analytics and created our own surveys in order to measure data.
 
 ## Methods
 
-TODO: Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
+Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
+We used google forms and google analytics to measure data. We created surveys and used the google analytics to find out when the responses were done.
 
 ## Findings
 
-TODO: Briefly restate what you found out about your classmates by exploring the data. 
+Briefly restate what you found out about your classmates by exploring the data.
+I found out that a lot of people like the color blue. I also found out that several do not take surveys seriously and put in joke answers for my open-ended question.
 
-TODO: Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
+Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
+Most people just stuck around long enough to do the survey and nothing else. Not that I blame them, of course. As you can see from Figure 1, a lot of the events that occurred were done by users without all of their information in the system. Not sure what that means though.
 
 Please refer to the figures you made in the notebook by title. For example, "As shown in figure 1..."
 
 ## Discussion
 
-TODO: Briefly mention how data gathering can help you answer specific questions.
+Briefly mention how data gathering can help you answer specific questions.
+We ask questions, people answer, we can do a temperature check of what people want and why people want it. By collating all the data, we can find out what makes people's brains tick.
 
 ## Future directions
 
-TODO: Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+
+Oh boy. I have like no data, as there's some serious slackers in this classroom. As such, the only thing I can really learn from this is that the makeup of the class is likely split up among freshman-juniors with very little or no seniors. But then again, my sample size isn't all of the population, so who knows.
